@@ -1,0 +1,28 @@
+#mainView{
+    height: 100%;
+    align-content: center;
+    align-self: center;
+}
+.el-header{
+    border-bottom: 2px red solid;
+}
+.el-main{
+    border: 2px #7f8594 solid;
+    height: 100%;
+}
+.el-footer{
+    border: 2px #2fadb5 solid;
+}
+.el-aside{
+    border: 2px #1e1f59 solid;
+    width: 200px;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
